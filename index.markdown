@@ -7,16 +7,34 @@ layout: default
 
 # Semester 1: Core
 
+***
+
 ## Format
 
-### Unit 1: [Accounting 1](https://www.coursera.org/learn/finance-fundamentals) + [Ops](https://www.coursera.org/learn/organizational-analysis)
+Semester 1 is designed to introduce core business school subjects with a heavy emphasis on
+Accounting. The Wharton Accounting Specialization from Coursera will be the backbone of the
+Semester, with an accompanying subject pulled from the [HBS First Year
+Syllabus](https://www.hbs.edu/mba/academic-experience/curriculum/Pages/default.aspx). Each unit will take about 4 weeks with an evaluation at the end of each section.
 
-### Unit 2: [Accounting 2](https://www.coursera.org/learn/wharton-finance) + [Micro Econ](https://www.coursera.org/learn/microeconomics-part1) + [Macro Econ](https://www.coursera.org/learn/country-level-economics)
+### Unit 1: Operations
+ - [Accounting 1](https://www.coursera.org/learn/finance-fundamentals)
+ - [Organizational Operations](https://www.coursera.org/learn/organizational-analysis)
 
-### Unit 3: [Accounting 3](https://www.coursera.org/learn/wharton-accounting)  + [Marketing](https://www.coursera.org/learn/wharton-marketing)
-  - Optional: [Digital Marketing](https://www.coursera.org/specializations/digital-marketing)
+### Unit 2: Markets
+ - [Accounting 2](https://www.coursera.org/learn/wharton-finance)
+ - [Micro Econonomics](https://www.coursera.org/learn/microeconomics-part1)
+ - [Macro Econonomics](https://www.coursera.org/learn/country-level-economics)
 
-### Unit 4: [Accounting 4](https://www.coursera.org/learn/wharton-financial-accounting) + [Investing](https://www.coursera.org/learn/investments-fundamentals)
+### Unit 3: Marketing
+ - [Accounting 3](https://www.coursera.org/learn/wharton-accounting)
+ - [Marketing](https://www.coursera.org/learn/wharton-marketing)
+ - Optional: [Digital Marketing](https://www.coursera.org/specializations/digital-marketing)
+
+### Unit 4: Investing
+ - [Accounting 4](https://www.coursera.org/learn/wharton-financial-accounting)
+ - [Investing](https://www.coursera.org/learn/investments-fundamentals)
+
+***
 
 ## Subjects
 
