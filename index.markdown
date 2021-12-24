@@ -413,6 +413,8 @@ will be able to:
 
 [Investing 2: Lessons and Applications for Investors](https://www.coursera.org/learn/investments-applications)
 
+***
+
 ## Entrepreneurship
 
 [Wharton Entrepreneurship Series](https://www.coursera.org/specializations/wharton-entrepreneurship)
