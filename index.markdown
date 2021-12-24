@@ -46,19 +46,19 @@ with a 6-week "Aspiring Founder" course from YCombinator and ending with intervi
 and hackathons to get out of the classroom a bit.
 
 ### Unit 1
- - [Developing the Opportunity](https://www.coursera.org/learn/wharton-entrepreneurship-opportunity)
- - [Startup School I](https://www.startupschool.org/aspiring-founders)
+ - [Entrepreneurship 1: Developing the Opportunity](#entrepreneurship-1-developing-the-opportunity)
+ - [Startup School I](#startup-school)
 
 ### Unit 2
- - [Launching](https://www.coursera.org/learn/wharton-launching-startup)
- - [Startup School II](https://www.startupschool.org/aspiring-founders)
+ - [Entrepreneurship 2: Launching](#entrepreneurship-2-launching)
+ - [Startup School II](#startup-school)
 
 ### Unit 3
- - [Growth](https://www.coursera.org/learn/growth-strategy)
+ - [Entrepreneurship 3: Growth](#entrepreneurship-3-growth)
  - Practicum
 
 ### Unit 4
- - [Financing and Profitability](https://www.coursera.org/learn/wharton-entrepreneurship-financing-profitabilty)
+ - [Entrepreneurship 4: Financing and Profitability](#entrepreneurship-4-financing-and-profitability)
  - Practicum
 
 ***
@@ -412,3 +412,123 @@ will be able to:
 ### Additional Resources
 
 [Investing 2: Lessons and Applications for Investors](https://www.coursera.org/learn/investments-applications)
+
+## Entrepreneurship
+
+[Wharton Entrepreneurship Series](https://www.coursera.org/specializations/wharton-entrepreneurship)
+
+Similar to the accounting program, this is a 4-class specialization that gives an overview of topics
+in entrepreneuship.
+
+### [Entrepreneurship 1: Developing the Opportunity](https://www.coursera.org/learn/wharton-entrepreneurship-opportunity)
+
+#### Summary
+
+How does a good idea become a viable business opportunity? What is entrepreneurship and who fits the
+profile of an entrepreneur? This introductory course is designed to introduce you to the
+foundational concepts of entrepreneurship, including the definition of entrepreneurship, the profile
+of the entrepreneur, the difference between entrepreneurship and entrepreneurial management, and the
+role of venture creation in society. You’ll explore where technology entrepreneurship and impact
+entrepreneurship align and where they diverge, and you’ll learn proven techniques for identifying
+the opportunity, assessing the opportunity, hypothesis testing and creating a prototype.
+
+By the end of this course, you’ll know how to test, validate and prototype your idea, and also
+whether or not you fit the profile of an entrepreneur! You’ll also be ready to move on to the next
+phase of entrepreneurship in Entrepreneurship 2: Launching the Start-Up.
+
+#### Content
+
+ - Intro
+ - Opportunity Analysis
+ - Markets, Need-Finding and Planning
+ - Pitching, Testing, and Prototyping
+
+### [Entrepreneurship 2: Launching](https://www.coursera.org/learn/wharton-launching-startup)
+
+#### Summary
+
+Once you have a prototype and a clearer vision of the opportunity, you’ll need to create a small
+organization to discover how to create a repeatable and scalable business model. Designed to provide
+you with a comprehensive overview of the critical components of creating a start-up,
+Entrepreneurship 2: Launching the Start-up, provides practical, real-world knowledge about the lean
+approach, the minimum viable product, when to pivot, when to quit your day job, the art of the
+pitch, building and managing a team, allocating equity, and building your external team, advisory
+board members, professional services, and entrepreneurial strategy. At the end of this course,
+you’ll be able to create a strategy for launch, including knowing who you need to hire, how to
+manage them to provide the greatest value, and what legal aspects are involved. You’ll also be
+prepared for Entrepreneurship 3: Growth Strategies.
+
+#### Content
+ - Preparing to Launch
+ - Building the Team
+ - Networks, Professional Services, and Intellectual Property
+ - Branding, Strategy, and Summary
+
+
+### [Entrepreneurship 3: Growth](https://www.coursera.org/learn/growth-strategy)
+
+#### Summary
+
+Start-ups are designed to grow quickly, but successful start-ups grow smart. This course is designed
+to provide you with an understanding of the essential elements of successful scaling, including an
+overview of demand generation, customer acquisition, adoption, diffusion and forecasting demand.
+You’ll also learn how to market effectively using best practices of digital marketing, social media,
+PR, SEO, and pricing. Finally, you’ll cover the nuts and bolts of building a sales process,
+partnerships and supply relationships, and examine the crucial components of attracting, developing
+and retaining talent. By the end of this course, you’ll have an outline of an expansion strategy for
+your idea or enterprise, and also be ready for Entrepreneurship 4: Financing and Profitability.
+
+#### Content
+
+ - Acquiring Customers and Forecasting Demand
+ - Marketing and PR
+ - Cost Structures, Pricing, Tracking
+ - Creating and Scaling Company Culture
+
+### [Entrepreneurship 4: Financing and Profitability](https://www.coursera.org/learn/wharton-entrepreneurship-financing-profitabilty)
+
+#### Summary
+
+Start-ups can benefit from a wide variety of financing options on the path to profitability, but how
+do you know which one to choose? This course explores different financing models, including
+bootstrapping, organic growth, debt and risk capital, and also provides a clear overview of equity
+financing including the key types of investors: angels, venture capital, and crowdfunding. You’ll
+learn about terms, and term sheets, exit modes and what exit strategy might be best for you. By the
+end of this course, you’ll have an understanding of what success looks like and how it can be
+financed. You’ll also be ready for the capstone project, in which you will get feedback on your own
+pitch deck, and may even be selected to pitch to investors from venture capital firms.
+
+#### Content
+
+ - Business Models and Keeping Customers
+ - Financing, Valuation, and Terms
+ - Private and Public Financing, and Calculating Breakeven
+ - Elements of the Pitch and Exit Strategies
+
+### [Startup School](https://www.startupschool.org/aspiring-founders)
+
+#### Summary
+
+The Aspiring Founders course is a set of classes provided by Y Combinator designed for entrepreneurs
+who do not yet have a project they are working on. It is a separate program from their normal
+Startup School, which is designed to accompany a very early-stage startup. It is taugt by a variety
+of founders, and offers a weekly video chat to discuss the material and network.
+
+#### Content
+
+ - Before the Startup
+ - Why to Not Not Start a Startup
+ - Future Founders Track Welcome
+ - How to Get Startup Ideas
+ - How to Pitch Your Startup
+ - How to Talk to Users
+ - How to Split Equity Among Co-Founders
+ - How to Work Together
+ - How to Find the Right Co-Founder
+ - How to Prioritize Your Time
+ - How to Launch (Again and Again)
+ - How to Plan an MVP
+ - Future Founders Parting Advice
+ - Startup = Growth
+ - Do Things That Don't Scale
+ - YC’s Essential Startup Advice
