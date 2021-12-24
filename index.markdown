@@ -104,6 +104,12 @@ There's a huge amount of content online! Here is a curated list of healthcare po
 series of [class lectures on YouTube](https://www.youtube.com/user/MIT), and MeetUp offers tons of
 [industry-specific lectures and networking events in San Francisco](https://www.meetup.com/topics/san-francisco/us/ca/san_francisco/).
 
+## Interviews
+
+Professor Emeritus Jackson has offered to put students in touch with contacts in different startups
+with which he has established relationships. Additionally, he has recently started doing work with
+the [Artemis Fund](https://theartemisfund.com), and believes it might provide additionally interesting networking opportunities.
+
 ***
 
 # Coursework
