@@ -15,6 +15,10 @@ from Coursera will be the backbone of the Semester, with an accompanying subject
 the [HBS First Year Syllabus](https://www.hbs.edu/mba/academic-experience/curriculum/Pages/default.aspx).
 Each unit will take about 4 weeks with an evaluation at the end of each section.
 
+### Unit 0: Management
+ - [Management Fundamentals](#management-fundamentals)
+ - [Fundamentals of Project Planning and Management](#fundamentals-of-project-planning-and-management)
+
 ### Unit 1: Operations
  - [Accounting 1: Fundamentals](#accounting-1-fundamentals)
  - [Organizational Operations](#organizational-operations)
@@ -113,6 +117,49 @@ the [Artemis Fund](https://theartemisfund.com), and believes it might provide ad
 ***
 
 # Coursework
+
+## Management
+
+### [Management Fundamentals](https://www.coursera.org/learn/management-fundamentals-healthcare-administrators)
+
+#### Summary
+
+People are the most valuable asset of any business, but they are also the most unpredictable, and
+the most difficult asset to manage. And although managing people well is critical to the health of
+any organization, most managers don't get the training they need to make good management decisions.
+Now, award-winning authors and renowned management Professors Mike Useem and Peter Cappelli of the
+Wharton School have designed this course to introduce you to the key elements of managing people.
+Based on their popular course at Wharton, this course will teach you how to motivate individual
+performance and design reward systems, how to design jobs and organize work for high performance,
+how to make good and timely management decisions, and how to design and change your organization’s
+architecture. By the end of this course, you'll have developed the skills you need to start
+motivating, organizing, and rewarding people in your organization so that you can thrive as a
+business and as a social organization.
+
+
+#### Content
+
+ - Motivation and Reward
+ - Tasks, Jobs, and Systems of Work
+ - Making Good and Timely Management Decisions
+ - Designing and Changing the Organization's Architecture
+
+### [Fundamentals of Project Planning and Management](https://www.coursera.org/learn/uva-darden-project-management)
+
+#### Summary
+
+Projects are all around us. Virtually every organization runs projects, either formally or
+informally. We are engaged in projects at home and at work. Across settings, planning principles and
+execution methodologies can offer ways in which projects can be run more effectively and
+efficiently. Project management provides organizations (and individuals) with the language and the
+frameworks for scoping projects, sequencing activities, utilizing resources, and minimizing risks.
+
+#### Content
+
+ - Welcome to the World of Projects
+ - The Ins and Outs of Project Planning
+ - It's a Risky World and Then the Unexpected Happens
+ - Ready, Set, Go: Project Execution
 
 ## Accounting
 
